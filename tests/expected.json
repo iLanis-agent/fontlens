@@ -1,0 +1,698 @@
+{
+ "items": [
+  {
+   "file": "dejavu_display.ttf",
+   "size": 14300,
+   "scaler_hex": "00010000",
+   "num_tables": 15,
+   "tables": [
+    "FFTM",
+    "OS/2",
+    "cmap",
+    "cvt ",
+    "fpgm",
+    "gasp",
+    "glyf",
+    "head",
+    "hhea",
+    "hmtx",
+    "loca",
+    "maxp",
+    "name",
+    "post",
+    "prep"
+   ],
+   "num_glyphs": 23,
+   "units_per_em": 2048,
+   "bbox": [
+    23,
+    -556,
+    4312,
+    2192
+   ],
+   "loc_format": 0,
+   "weight_class": 400,
+   "width_class": 5,
+   "fs_type": 0,
+   "italic_angle": 0.0,
+   "fixed_pitch": false,
+   "underline_position": -130,
+   "family": "DejaVu Serif Display",
+   "subfamily": "Book",
+   "unique": "DejaVu Serif",
+   "full": "DejaVu Serif Display",
+   "version_str": "Version 2.35",
+   "postscript": "DejaVuSerifDisplay",
+   "pref_family": "DejaVu Serif Display",
+   "pref_subfamily": "Display",
+   "cmap_count": 20,
+   "cmap_min": 8211,
+   "cmap_max": 10766,
+   "cmap_sample": [
+    8211,
+    8250,
+    10766
+   ],
+   "table_checksums": {
+    "FFTM": [
+     1883422528,
+     1883422528
+    ],
+    "OS/2": [
+     2376015166,
+     2376015166
+    ],
+    "cmap": [
+     3062472532,
+     3062472532
+    ],
+    "cvt ": [
+     2402528244,
+     2402528244
+    ],
+    "fpgm": [
+     3883987396,
+     3883987396
+    ],
+    "gasp": [
+     458759,
+     458759
+    ],
+    "glyf": [
+     2892460362,
+     2892460362
+    ],
+    "head": [
+     355590642,
+     37691850
+    ],
+    "hhea": [
+     407310161,
+     407310161
+    ],
+    "hmtx": [
+     2303658165,
+     2303658165
+    ],
+    "loca": [
+     295048304,
+     295048304
+    ],
+    "maxp": [
+     71172454,
+     71172454
+    ],
+    "name": [
+     3978082649,
+     3978082649
+    ],
+    "post": [
+     1635894584,
+     1635894584
+    ],
+    "prep": [
+     1970865910,
+     1970865910
+    ]
+   },
+   "table_offsets": {
+    "FFTM": [
+     14272,
+     28
+    ],
+    "OS/2": [
+     376,
+     86
+    ],
+    "cmap": [
+     556,
+     378
+    ],
+    "cvt ": [
+     2452,
+     404
+    ],
+    "fpgm": [
+     936,
+     139
+    ],
+    "gasp": [
+     14260,
+     12
+    ],
+    "glyf": [
+     2904,
+     2600
+    ],
+    "head": [
+     252,
+     54
+    ],
+    "hhea": [
+     308,
+     36
+    ],
+    "hmtx": [
+     464,
+     90
+    ],
+    "loca": [
+     2856,
+     48
+    ],
+    "maxp": [
+     344,
+     32
+    ],
+    "name": [
+     5504,
+     8628
+    ],
+    "post": [
+     14132,
+     128
+    ],
+    "prep": [
+     1076,
+     1374
+    ]
+   },
+   "adjustment_val": 3977068504,
+   "adjustment_ok": true
+  },
+  {
+   "file": "cmtt10.ttf",
+   "size": 28136,
+   "scaler_hex": "00010000",
+   "num_tables": 14,
+   "tables": [
+    "OS/2",
+    "PCLT",
+    "cmap",
+    "cvt ",
+    "fpgm",
+    "glyf",
+    "head",
+    "hhea",
+    "hmtx",
+    "loca",
+    "maxp",
+    "name",
+    "post",
+    "prep"
+   ],
+   "num_glyphs": 133,
+   "units_per_em": 2048,
+   "bbox": [
+    -12,
+    -477,
+    1280,
+    1430
+   ],
+   "loc_format": 1,
+   "weight_class": 400,
+   "width_class": 5,
+   "fs_type": 0,
+   "italic_angle": 0.0,
+   "fixed_pitch": false,
+   "underline_position": -133,
+   "family": "cmtt10",
+   "subfamily": "Regular",
+   "unique": "FontMonger:cmtt10",
+   "full": "cmtt10",
+   "version_str": "1.1/12-Nov-94",
+   "postscript": "Cmtt10",
+   "cmap_count": 130,
+   "cmap_min": 32,
+   "cmap_max": 8729,
+   "cmap_sample": [
+    32,
+    97,
+    8729
+   ],
+   "table_checksums": {
+    "OS/2": [
+     301348670,
+     301348670
+    ],
+    "PCLT": [
+     2513271029,
+     2513271029
+    ],
+    "cmap": [
+     2320272208,
+     2320272208
+    ],
+    "cvt ": [
+     985480426,
+     985480426
+    ],
+    "fpgm": [
+     34718305,
+     34718305
+    ],
+    "glyf": [
+     1470091356,
+     1470091356
+    ],
+    "head": [
+     1678461109,
+     2233571386
+    ],
+    "hhea": [
+     166921344,
+     166921344
+    ],
+    "hmtx": [
+     669466536,
+     669466536
+    ],
+    "loca": [
+     1653820,
+     1653820
+    ],
+    "maxp": [
+     24707275,
+     24707275
+    ],
+    "name": [
+     3806393991,
+     3806393991
+    ],
+    "post": [
+     3239007958,
+     3239007958
+    ],
+    "prep": [
+     2064159261,
+     2064159261
+    ]
+   },
+   "table_offsets": {
+    "OS/2": [
+     28056,
+     78
+    ],
+    "PCLT": [
+     3140,
+     54
+    ],
+    "cmap": [
+     236,
+     598
+    ],
+    "cvt ": [
+     836,
+     158
+    ],
+    "fpgm": [
+     996,
+     472
+    ],
+    "glyf": [
+     3196,
+     24260
+    ],
+    "head": [
+     1468,
+     54
+    ],
+    "hhea": [
+     28020,
+     36
+    ],
+    "hmtx": [
+     27456,
+     532
+    ],
+    "loca": [
+     1524,
+     536
+    ],
+    "maxp": [
+     27988,
+     32
+    ],
+    "name": [
+     2492,
+     648
+    ],
+    "post": [
+     2092,
+     397
+    ],
+    "prep": [
+     2060,
+     30
+    ]
+   },
+   "adjustment_val": 555110277,
+   "adjustment_ok": true
+  },
+  {
+   "file": "stix_symbols.ttf",
+   "size": 12116,
+   "scaler_hex": "00010000",
+   "num_tables": 13,
+   "tables": [
+    "FFTM",
+    "GDEF",
+    "OS/2",
+    "cmap",
+    "gasp",
+    "glyf",
+    "head",
+    "hhea",
+    "hmtx",
+    "loca",
+    "maxp",
+    "name",
+    "post"
+   ],
+   "num_glyphs": 20,
+   "units_per_em": 1000,
+   "bbox": [
+    4,
+    -355,
+    1185,
+    2095
+   ],
+   "loc_format": 0,
+   "weight_class": 700,
+   "width_class": 5,
+   "fs_type": 0,
+   "italic_angle": 0.0,
+   "fixed_pitch": false,
+   "underline_position": -123,
+   "family": "STIXSizeTwoSym",
+   "subfamily": "Bold",
+   "unique": "FontMaster:STIXSizeTwoSym-Bold:1.0.0",
+   "full": "STIXSizeTwoSym-Bold",
+   "version_str": "Version 1.0.0",
+   "postscript": "STIXSizeTwoSym-Bold",
+   "cmap_count": 17,
+   "cmap_min": 32,
+   "cmap_max": 10217,
+   "cmap_sample": [
+    32,
+    125,
+    10217
+   ],
+   "table_checksums": {
+    "FFTM": [
+     1431402047,
+     1431402047
+    ],
+    "GDEF": [
+     4259846,
+     4259846
+    ],
+    "OS/2": [
+     1650244134,
+     1650244134
+    ],
+    "cmap": [
+     2114785664,
+     2114785664
+    ],
+    "gasp": [
+     4294901763,
+     4294901763
+    ],
+    "glyf": [
+     2464813466,
+     2464813466
+    ],
+    "head": [
+     4096977605,
+     1605418389
+    ],
+    "hhea": [
+     215155379,
+     215155379
+    ],
+    "hmtx": [
+     667747599,
+     667747599
+    ],
+    "loca": [
+     117442102,
+     117442102
+    ],
+    "maxp": [
+     5701672,
+     5701672
+    ],
+    "name": [
+     1343557970,
+     1343557970
+    ],
+    "post": [
+     3648063636,
+     3648063636
+    ]
+   },
+   "table_offsets": {
+    "FFTM": [
+     12088,
+     28
+    ],
+    "GDEF": [
+     12056,
+     32
+    ],
+    "OS/2": [
+     344,
+     96
+    ],
+    "cmap": [
+     520,
+     394
+    ],
+    "gasp": [
+     12048,
+     8
+    ],
+    "glyf": [
+     960,
+     740
+    ],
+    "head": [
+     220,
+     54
+    ],
+    "hhea": [
+     276,
+     36
+    ],
+    "hmtx": [
+     440,
+     78
+    ],
+    "loca": [
+     916,
+     42
+    ],
+    "maxp": [
+     312,
+     32
+    ],
+    "name": [
+     1700,
+     10200
+    ],
+    "post": [
+     11900,
+     146
+    ]
+   },
+   "adjustment_val": 1803408080,
+   "adjustment_ok": true
+  },
+  {
+   "file": "italic_synth.ttf",
+   "size": 14300,
+   "scaler_hex": "00010000",
+   "num_tables": 15,
+   "tables": [
+    "FFTM",
+    "OS/2",
+    "cmap",
+    "cvt ",
+    "fpgm",
+    "gasp",
+    "glyf",
+    "head",
+    "hhea",
+    "hmtx",
+    "loca",
+    "maxp",
+    "name",
+    "post",
+    "prep"
+   ],
+   "num_glyphs": 23,
+   "units_per_em": 2048,
+   "bbox": [
+    23,
+    -556,
+    4312,
+    2192
+   ],
+   "loc_format": 0,
+   "weight_class": 400,
+   "width_class": 5,
+   "fs_type": 4,
+   "italic_angle": -16.75,
+   "fixed_pitch": false,
+   "underline_position": -130,
+   "family": "DejaVu Serif Display",
+   "subfamily": "Book",
+   "unique": "DejaVu Serif",
+   "full": "DejaVu Serif Display",
+   "version_str": "Version 2.35",
+   "postscript": "DejaVuSerifDisplay",
+   "pref_family": "DejaVu Serif Display",
+   "pref_subfamily": "Display",
+   "cmap_count": 20,
+   "cmap_min": 8211,
+   "cmap_max": 10766,
+   "cmap_sample": [
+    8211,
+    8250,
+    10766
+   ],
+   "table_checksums": {
+    "FFTM": [
+     1883422528,
+     1883422528
+    ],
+    "OS/2": [
+     2376277310,
+     2376277310
+    ],
+    "cmap": [
+     3062472532,
+     3062472532
+    ],
+    "cvt ": [
+     2402528244,
+     2402528244
+    ],
+    "fpgm": [
+     3883987396,
+     3883987396
+    ],
+    "gasp": [
+     458759,
+     458759
+    ],
+    "glyf": [
+     2892460362,
+     2892460362
+    ],
+    "head": [
+     697668236,
+     3992252720
+    ],
+    "hhea": [
+     407310161,
+     407310161
+    ],
+    "hmtx": [
+     2303658165,
+     2303658165
+    ],
+    "loca": [
+     295048304,
+     295048304
+    ],
+    "maxp": [
+     71172454,
+     71172454
+    ],
+    "name": [
+     3978082649,
+     3978082649
+    ],
+    "post": [
+     1634796856,
+     1634796856
+    ],
+    "prep": [
+     1970865910,
+     1970865910
+    ]
+   },
+   "table_offsets": {
+    "FFTM": [
+     14272,
+     28
+    ],
+    "OS/2": [
+     376,
+     86
+    ],
+    "cmap": [
+     556,
+     378
+    ],
+    "cvt ": [
+     2452,
+     404
+    ],
+    "fpgm": [
+     936,
+     139
+    ],
+    "gasp": [
+     14260,
+     12
+    ],
+    "glyf": [
+     2904,
+     2600
+    ],
+    "head": [
+     252,
+     54
+    ],
+    "hhea": [
+     308,
+     36
+    ],
+    "hmtx": [
+     464,
+     90
+    ],
+    "loca": [
+     2856,
+     48
+    ],
+    "maxp": [
+     344,
+     32
+    ],
+    "name": [
+     5504,
+     8628
+    ],
+    "post": [
+     14132,
+     128
+    ],
+    "prep": [
+     1076,
+     1374
+    ]
+   },
+   "adjustment_val": 3294584484,
+   "adjustment_ok": true
+  },
+  {
+   "file": "truncated.ttf",
+   "size": 5720,
+   "expect_warning": "truncated"
+  }
+ ]
+}
